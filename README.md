@@ -2,14 +2,11 @@
 
 取り扱い説明書
 
-開発環境
-Processing
+開発環境：Processing
 
-言語
-Java
+言語：Java
 
-プラットフォーム
-Windows
+プラットフォーム：Windows
 
 この作品は矢印キーを使って操作するゲーム
 
